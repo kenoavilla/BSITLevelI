@@ -158,6 +158,7 @@
 
 
 
+
 #vmq .vmq-logo img {
     width: 30px;
 }
@@ -176,6 +177,9 @@
     color: #646363;
 }
 
+#vmq .quality-p {
+    background: #222222;
+}
 
 #vmq .quality-p h5{
     color: white;
@@ -183,8 +187,9 @@
 }
 
 #vmq .quality-p p{
-    color: #222222;
+    color: #b4b2b2;
 }
+
 
 
 
