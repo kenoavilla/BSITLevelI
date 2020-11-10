@@ -1,1 +1,1 @@
-﻿
+﻿var textForPages = ["","","",""];
